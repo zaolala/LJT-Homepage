@@ -23,64 +23,64 @@ repository               : "zaolala/LJT-Homepage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  avatar           : # no profile photo available
   name             : "Junteng Liu"
-  pronouns         : ""
+  pronouns         : # example: "she/her"  
   bio              : "First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing and machine learning."
-  location         : ""
+  location         : # no location recorded
   employer         : "HKUST NLP Group"
-  uri              : ""
+  uri              : # URL
   email            : "jliugi@connect.ust.hk" 
 
   # Academic websites
-  academia         : ""
-  arxiv            : ""
+  academia         : # URL
+  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
-  inspire-hep      : ""
-  impactstory      : ""
-  orcid            : ""
-  semantic         : ""
-  ssrn             : ""
-  pubmed           : ""
-  researchgate     : ""
-  scopus           : ""
-  zotero           : ""
+  inspire-hep      : # URL
+  impactstory      : # URL
+  orcid            : # URL
+  semantic         : # URL
+  ssrn             : # URL
+  pubmed           : # URL
+  researchgate     : # URL
+  scopus           : # URL
+  zotero           : # URL
 
 
   # Repositories and software development
-  bitbucket        : ""
-  codepen          : ""
-  dribbble         : ""
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
   github           : "Vicent0205"
-  kaggle           : ""
-  stackoverflow    : ""
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  artstation       : ""
-  bluesky          : ""
-  facebook         : ""
-  flickr           : ""
-  foursquare       : ""
-  goodreads        : ""
-  google_plus      : ""
-  keybase          : ""
-  instagram        : ""
-  lastfm           : ""
-  linkedin         : ""
-  mastodon         : ""
-  medium           : ""
-  pinterest        : ""
-  soundcloud       : ""
-  steam            : ""
-  telegram         : ""
-  tumblr           : ""
+  artstation       : # Username
+  bluesky          : # Username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  lastfm           : # Username
+  linkedin         : # Username
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
   twitter          : "junteng88716710"
-  vine             : ""
-  weibo            : ""
-  wikipedia        : ""
-  xing             : ""
-  youtube          : ""
-  zhihu            : ""
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : # Username
+  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
