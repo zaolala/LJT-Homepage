@@ -23,11 +23,11 @@ repository               : "zaolala/LJT-Homepage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # no profile photo available
+  avatar           : "profile.png"
   name             : "Junteng Liu"
   pronouns         : # example: "she/her"  
   bio              : "First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing and machine learning."
-  location         : # no location recorded
+  location         : # no location recorded in memory
   employer         : "HKUST NLP Group"
   uri              : # URL
   email            : "jliugi@connect.ust.hk" 
