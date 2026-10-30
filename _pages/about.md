@@ -29,27 +29,27 @@ I am a first-year PhD candidate at the HKUST NLP Group, advised by Professor Jun
 
 ## Publications
 
-1. **[SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond](/publication/2025-synlogic-synthesizing-verifiable-reasoning-data-at-scale-for-learning-logical-reasoning-and-beyond)** (First author)  
+1. **[SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond]({{ site.baseurl }}/publication/2025-synlogic-synthesizing-verifiable-reasoning-data-at-scale-for-learning-logical-reasoning-and-beyond)** (First author)  
    Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
    *arXiv*, 2025
 
-2. **[On the Perception Bottleneck of VLMs for Chart Understanding](/publication/2025-on-the-perception-bottleneck-of-vlms-for-chart-understanding)** (First author)  
+2. **[On the Perception Bottleneck of VLMs for Chart Understanding]({{ site.baseurl }}/publication/2025-on-the-perception-bottleneck-of-vlms-for-chart-understanding)** (First author)  
    Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
    *arXiv*, 2025
 
-3. **[On the Universal Truthfulness Hyperplane Inside LLMs](/publication/2024-on-the-universal-truthfulness-hyperplane-inside-llms)** (First author)  
+3. **[On the Universal Truthfulness Hyperplane Inside LLMs]({{ site.baseurl }}/publication/2024-on-the-universal-truthfulness-hyperplane-inside-llms)** (First author)  
    Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He  
    *EMNLP 2024*, 2024
 
-4. **[In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation](/publication/2024-in-context-sharpness-as-alerts-an-inner-representation-perspective-for-hallucination-mitigation)**  
+4. **[In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation]({{ site.baseurl }}/publication/2024-in-context-sharpness-as-alerts-an-inner-representation-perspective-for-hallucination-mitigation)**  
    Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He  
    *ICML 2024*, 2024
 
-5. **[C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models](/publication/2023-c-eval-a-multi-level-multi-discipline-chinese-evaluation-suite-for-foundation-models)**  
+5. **[C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models]({{ site.baseurl }}/publication/2023-c-eval-a-multi-level-multi-discipline-chinese-evaluation-suite-for-foundation-models)**  
    Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He  
    *NeurIPS 2023*, 2023
 
-6. **[Composing Parameter-Efficient Modules with Arithmetic Operations](/publication/2023-composing-parameter-efficient-modules-with-arithmetic-operations)**  
+6. **[Composing Parameter-Efficient Modules with Arithmetic Operations]({{ site.baseurl }}/publication/2023-composing-parameter-efficient-modules-with-arithmetic-operations)**  
    Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He  
    *NeurIPS 2023*, 2023
 
