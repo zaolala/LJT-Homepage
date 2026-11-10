@@ -34,5 +34,15 @@ jobs:
         run: bundle exec jekyll build --baseurl "/LJT-Homepage"
         env:
           JEKYLL_ENV: production
-      - name: List built pages
-        run: find _site -name index.html | sort
+      - name: Inspect output
+        run: |
+          echo "=== publication pages ==="
+          find _site/publication -type f | sort
+          echo "=== homepage publication mentions ==="
+          grep -o -E "SynLogic|C-Eval|Truthfulness Hyperplane|Perception Bottleneck|In-Context Sharpness|Composing Parameter-Efficient" _site/index.html | sort | uniq -c
+          echo "=== homepage personal details ==="
+          for term in "Junteng Liu" "jliugi@connect.ust.hk" "Vicent0205" "junteng88716710" "Zhiyuan Honor Scholarship" "MINIMAX" "Tencent WXG" "Shanghai AI Lab" "Hong Kong University of Science and Technology" "Shanghai Jiao Tong University"; do
+            printf "%s : %s\n" "$term" "$(grep -c "$term" _site/index.html)"
+          done
+          echo "=== publications page ==="
+          grep -o -E "SynLogic|C-Eval|Truthfulness Hyperplane|Perception Bottleneck|In-Context Sharpness|Composing Parameter-Efficient" _site/publications/index.html | sort | uniq -c
